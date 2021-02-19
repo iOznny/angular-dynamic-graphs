@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-dynamic-graphs"
+    }
+  },
+  "defaultProject": "angular-dynamic-graphs",
+  "cli": {
+    "analytics": false
+  }
 }
